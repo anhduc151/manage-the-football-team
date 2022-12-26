@@ -1,0 +1,5 @@
+CT1 Nguyen Cong Phuong true 15/10/1998 15/10/1998 Viet Nam
+CT2 Nguyen Van Toan    true 2/3/1997 2/3/1997 Viet Nam
+CT3 Doan Van Hau       true 5/7/1994 5/7/1994  Viet Nam
+CT4 Do Thuy Tien       false 7/3/1993 7/3/1993 Viet Nam   
+HLV1 Park Hang Sheo     true 12/4/1976 12/4/1976 Han Quoc   
